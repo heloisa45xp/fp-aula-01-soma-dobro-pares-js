@@ -1,3 +1,5 @@
+**Atividade Resolvida :3**
+
 # Implementando Funções para Processamento de Dados com Programação Funcional e Estruturada em JS
 
 Este é um projeto [Node.js](http://nodejs.org), logo usa JavaScript no backend. 
